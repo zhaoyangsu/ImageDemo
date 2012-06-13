@@ -33,7 +33,7 @@
     
     
     NSError* error;
-    for (int i = 1; i < 46; i++)
+    for (int i = 1; i < 100; i++)
     {
         NSString* name = [NSString stringWithFormat:@"%d.JPG",i];
         NSString* imagePath = [[NSBundle mainBundle]pathForResource:[NSString stringWithFormat:@"%d",i] ofType:@"JPG"];
