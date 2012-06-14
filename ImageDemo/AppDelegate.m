@@ -17,7 +17,7 @@
 
 - (void)dealloc
 {
-    
+    //you ttetws
     //hello word
      [_window release];
     [_viewController release];
