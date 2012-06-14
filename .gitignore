@@ -1,0 +1,6 @@
+*.JPG
+*.jpg
+*.png
+.gitignore
+.DS_Store
+xcuserdata/
