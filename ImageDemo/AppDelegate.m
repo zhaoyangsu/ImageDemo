@@ -17,6 +17,7 @@
 
 - (void)dealloc
 {
+    //hello
     [_window release];
     [_viewController release];
     [super dealloc];
